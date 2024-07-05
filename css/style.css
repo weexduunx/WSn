@@ -1015,3 +1015,13 @@ button {
     color: #ef5051;
 }
 
+.footer_section .customer_text {
+    font-size: 18px; /* Adjust as needed */
+    font-weight: bold; /* Ensure titles are bold */
+}
+
+.footer_section .footer_lorem_text,
+.footer_section .footer_lorem_text1 {
+    font-size: 14px; /* Adjust as needed */
+    font-weight: normal; /* Ensure text is not bold */
+}
